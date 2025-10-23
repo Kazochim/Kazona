@@ -4,9 +4,9 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Lập+Trình+Viên+Tự+Do;Luôn+Học+Hỏi+Và+Tìm+Tòi+Về+Code&center=true&width=380&height=45">
 </p>
 <p align="center">
-  <a href="https://sangnguyen07.io.vn"><img src="https://img.shields.io/badge/Website-sangnguyen07.io.vn-blue?style=flat-square&logo=google-chrome"></a>
-  <a href="https://www.facebook.com/sangdeptryk7"><img src="https://img.shields.io/badge/Facebook-@sangdeptryk7-0866FF?style=flat-square&logo=facebook"></a>
-  <a href="https://github.com/sangnekk"><img src="https://img.shields.io/github/followers/sangnekk?label=follow&style=social"></a>
+  <a href="https://kazora.xyz"><img src="https://img.shields.io/badge/Website-sangnguyen07.io.vn-blue?style=flat-square&logo=google-chrome"></a>
+  <a href=https://www.facebook.com/kazona005/"><img src="https://img.shields.io/badge/Facebook-@sangdeptryk7-0866FF?style=flat-square&logo=facebook"></a>
+  <a href="https://github.com/Kazochim"><img src="https://img.shields.io/github/followers/sangnekk?label=follow&style=social"></a>
 </p>
 
 ---
